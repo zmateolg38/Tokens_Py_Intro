@@ -53,3 +53,9 @@ if tokens:  # Verifica si hay tokens en la lista
     print("", "".join(map(str, [primer_token,", ",segundo_token])))
 else:
     print("No se encontraron tokens.")
+
+
+    #comandos git
+    #git add.
+    #git commit - m "nombre Actualizacion"
+    #subir archivo: git push
